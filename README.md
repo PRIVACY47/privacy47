@@ -1,7 +1,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=privacy47&label=Profile%20views&color=0e75b6&style=flat" alt="privacy47" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK, data science**
+- 🌱 I’m currently learning **MERN STACK, Data Science**
 
 - 💬 Ask me about **react, node, javascript, git, github, python, java, mongodb, powerbi, aws, cicd**
 
