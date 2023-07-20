@@ -1,10 +1,12 @@
 
-![alt](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=privacy47&label=Profile%20views&color=0e75b6&style=flat" alt="privacy47" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK,**
+- 🌱 I’m currently learning **MERN STACK, data science**
 
-- 💬 Ask me about **react, node, javascript,**
+- 💬 Ask me about **react, node, javascript, git, github, python, java**
+
+
+![alt](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
